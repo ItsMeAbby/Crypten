@@ -206,7 +206,6 @@
    - [https://github.com/facebookresearch/crypten](https://github.com/facebookresearch/crypten)
 3. **Secure Multi-Party Computation (MPC)**
    - Yao, A. C. (1986). How to generate and exchange secrets.
-   - [Link](https://dl.acm.org/doi/10.1145/138927.138930)
 4. **Beaver Multiplication Protocol**
    - Beaver, D. (1991). Efficient Multiparty Protocols Using Circuit Randomization.
    - [Link](https://link.springer.com/chapter/10.1007/0-387-34805-0_21)
